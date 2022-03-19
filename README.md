@@ -1,7 +1,5 @@
 # CartoesMovilePay
 
-# movilepay-android-interview
-
 ## Projeto:
 - Criar um repositório no Github para este projeto;
 - Enviar para a empresa o link do projeto para que seja avaliado.
